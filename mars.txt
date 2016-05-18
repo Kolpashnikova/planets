@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 Mars is a reddish planet. Sometimes it's blue.
+=======
+Changing the first line.
+>>>>>>> 0840789a790336df6234a2f8a85f959734df52e9
 It has two moons. Daimos and Phobos.
 
 Hi Kamila, let me write something about planets here.
 
 
-Which planet are you from?
+Which planet are you from? Mars???
 
 Best,
 
